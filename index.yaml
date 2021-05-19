@@ -2,13 +2,24 @@ apiVersion: v1
 entries:
   python-backend-helm:
   - apiVersion: v2
-    appVersion: 1.16.1
-    created: "2021-05-19T10:54:39.6299131+05:30"
+    appVersion: 1.16.2
+    created: "2021-05-19T11:56:17.4439215+05:30"
     description: A Helm chart for Kubernetes
-    digest: 3cd18bf79166f01295640d7c0ce52f1e1966947d7af445907fd8f074d399c11e
+    digest: c6796a7468940011c39deaf0caf8dee4a8333514d4fdf89cb5aa1eea61ca999d
     name: python-backend-helm
     type: application
     urls:
     - python-backend-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-19T10:54:39.6249139+05:30"
+  react-frontend-helm:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2021-05-19T11:56:17.4459335+05:30"
+    description: A Helm chart for Kubernetes
+    digest: bad59f2e4e4d6d4232064c79db7e071b833059a093f24b39d55fa7ff49a5cfa3
+    name: react-frontend-helm
+    type: application
+    urls:
+    - react-frontend-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-19T11:56:17.4379423+05:30"
