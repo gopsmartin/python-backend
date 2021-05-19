@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   python-backend-helm:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-05-18T11:59:29.9040745+05:30"
+    appVersion: 1.16.1
+    created: "2021-05-19T10:54:39.6299131+05:30"
     description: A Helm chart for Kubernetes
-    digest: d0b244c706cab1f8e1a4844d3fbe6c7b984f60ddc59071230843ec1c0b10212a
+    digest: 3cd18bf79166f01295640d7c0ce52f1e1966947d7af445907fd8f074d399c11e
     name: python-backend-helm
     type: application
     urls:
     - python-backend-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-18T11:59:29.9010747+05:30"
+generated: "2021-05-19T10:54:39.6249139+05:30"
