@@ -3,7 +3,7 @@ entries:
   python-backend-helm:
   - apiVersion: v2
     appVersion: 1.16.2
-    created: "2021-05-19T11:56:17.4439215+05:30"
+    created: "2021-05-24T10:42:40.3561776+05:30"
     description: A Helm chart for Kubernetes
     digest: c6796a7468940011c39deaf0caf8dee4a8333514d4fdf89cb5aa1eea61ca999d
     name: python-backend-helm
@@ -14,7 +14,7 @@ entries:
   react-frontend-helm:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2021-05-19T11:56:17.4459335+05:30"
+    created: "2021-05-24T10:42:40.3601764+05:30"
     description: A Helm chart for Kubernetes
     digest: bad59f2e4e4d6d4232064c79db7e071b833059a093f24b39d55fa7ff49a5cfa3
     name: react-frontend-helm
@@ -22,4 +22,15 @@ entries:
     urls:
     - react-frontend-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-19T11:56:17.4379423+05:30"
+  sso-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-24T10:42:40.3621908+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 6d02c5c665729d4b94702cff386d0ff4cd6faa8a9c101f856cc3bcd8bf15b30b
+    name: sso-helm
+    type: application
+    urls:
+    - sso-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-24T10:42:40.3481733+05:30"
